@@ -1,0 +1,22 @@
+{
+  "name": "texttospeechsynthesiser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreya02/Text_To_Speech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreya02/Text_To_Speech/issues"
+  },
+  "homepage": "https://github.com/shreya02/Text_To_Speech",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
